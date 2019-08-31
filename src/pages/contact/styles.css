@@ -1,0 +1,35 @@
+.new-contact {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.back-home {
+    height: 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.register-user {
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #da552f;
+    background: none;
+    margin-top: 10px;
+    color: #da552f;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s;
+}
+
+.register-user:hover {
+    background: #da552f;
+    color: #fff;
+}
